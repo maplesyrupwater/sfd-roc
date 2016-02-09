@@ -24,7 +24,7 @@ Decause: Attorney at Law offering free legal advice M-T 12:30pm - 4:30pm. decuas
 Project Members
 ----
  - [Andrew "AJ" Mandula](http://github.com/ajman1101) 
- - [Nikko Williard](http://github.com/themidnightowl)
+ - [Nikko Williard](https://github.com/maplesyrupwater)
 
 Project License
 ----
